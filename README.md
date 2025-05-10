@@ -1,2 +1,2 @@
 # exercicioDioKelvin
-Resolução de exercício Dio Conversão Kelvin para Celcius
+Resolução de exercício Dio Conversão Kelvin para Celsius 
