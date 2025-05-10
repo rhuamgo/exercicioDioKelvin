@@ -9,6 +9,6 @@ func main() {
 	K := Kelvin
 	C := K - 273.15
 
-	fmt.Printf("O ponto de Ebulição da água em Kelvin é °K %g e o Ponto de Ebulição da água em Celcius é °C %g", K, C)
+	fmt.Printf("O ponto de Ebulição da água em Kelvin é °K %g e o Ponto de Ebulição da água em Celsius  é °C %g", K, C)
 
 }
